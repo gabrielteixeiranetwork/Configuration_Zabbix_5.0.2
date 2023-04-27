@@ -62,3 +62,9 @@ Mensagem
     {EVENT.UPDATE.MESSAGE}
     O status atual do problema é {EVENT.STATUS}, reconhecido: {EVENT.ACK.STATUS}.
 ![image](https://user-images.githubusercontent.com/94009104/234951355-90f844e9-5c5e-4f23-9f0a-53a118162691.png)
+
+
+Nos Links Abaixo terá alguns templates disponíveis:
+
+https://github.com/gabrielteixeiranetwork?tab=repositories
+
